@@ -3,10 +3,10 @@
 # 🚀 About Me
 
  * 🎓 I am Hazel Abraham. I pursued my Bachelors in Mechanical Engineering and graduated in 2021.👀
- * 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. From 2021 I was learning the Data Analytics and  entered into a vast world where I get dusty with data.
+ * 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. From October 2021 I was learning the Data Analytics and  entered into a vast world where I get dusty with data.
 * Recent Intrests Data Science.
  * 💞️ I’m looking to collaborate on a project based on Data Analytics ,ML&Python.
-* Outside the world of tech too, I love gardening.
+* Outside the world of tech too, I love gardening and baking .
 
 
 * Languages & Tools 🛠️

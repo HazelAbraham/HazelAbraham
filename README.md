@@ -1,8 +1,9 @@
-# Hi there!![image](https://user-images.githubusercontent.com/89205451/142351174-302e57e8-3d3f-4289-ba9c-d8e0bdbb7329.png)
-  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Hazel Abraham</a></h1>
 # 🚀 About Me
 
- * 🎓 I am Hazel Abraham. I pursued my Bachelors in Mechanical Engineering and graduated in 2021.👀
+
+ * 🎓 I pursued my Bachelors in Mechanical Engineering and graduated in 2021.👀
+ * 🎓 Currently pursuing PGP in Data Science and Engineering from Great Learning.
  * 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. From October 2021 I was learning the Data Analytics and  entered into a vast world where I get dusty with data.
 * 📚 Areas of Interest: Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL, Tableau.
  * 💞️ I’m looking to collaborate on a project based on Data Analytics ,ML&Python.
@@ -11,12 +12,9 @@
 
 
 
+<h3 align="left">Languages and Tools:</h3>
 
-* Languages & Tools 🛠️
-https://www.mysql.com/   https://www.python.org/  https://scikit-learn.org/   https://pandas.pydata.org/  https://numpy.org/
-
-
-⭐ From Hazel Abraham.
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI"><img src="https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI"> <img src ="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 

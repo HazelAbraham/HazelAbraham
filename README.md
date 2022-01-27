@@ -6,7 +6,7 @@
  * 👨‍💻 I enjoy contributing to Open Source Projects and am really enthusiastic about learning new technology. From October 2021 I was learning the Data Analytics and  entered into a vast world where I get dusty with data.
 * Recent Intrests Data Science.
  * 💞️ I’m looking to collaborate on a project based on Data Analytics ,ML&Python.
-* Outside the world of tech too, I love gardening and baking .
+* Outside the world of tech too, I love gardening wand watching Formula F1 races  .
 
 
 * Languages & Tools 🛠️

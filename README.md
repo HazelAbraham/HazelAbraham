@@ -4,7 +4,7 @@
 
  * 🎓 I pursued my Bachelors in Mechanical Engineering and graduated in 2021.👀
  * 🎓Did PGP in Data Science and Engineering from Great Learning.
- * Currently working in Nalco Water, An Ecolab Company
+ * Currently working in Nalco Water, An Ecolab Company as Data Science Intern 
 
 * 📚 Areas of Interest: Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL.
  * 💞️ I’m looking to collaborate on a project based on Data Analytics.

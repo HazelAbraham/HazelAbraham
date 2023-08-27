@@ -3,10 +3,12 @@
 
 
  * 🎓 I pursued my Bachelors in Mechanical Engineering and graduated in 2021.👀
- * 🎓 Currently pursuing PGP in Data Science and Engineering from Great Learning.
+ * 🎓Did PGP in Data Science and Engineering from Great Learning.
+ * Cureentluy working in Nalco Water, An Ecolab Company
+
 * 📚 Areas of Interest: Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL.
  * 💞️ I’m looking to collaborate on a project based on Data Analytics.
-* Outside the world of tech too, I love gardening wand watching Formula F1 races  .
+* Outside the world of tech too, I love gardening , baking   .
 
 
 

@@ -6,8 +6,8 @@
  * 🎓Did PGP in Data Science and Engineering from Great Learning.
  * Currently working  as a Associate Data Scientist in Nalco Water, An Ecolab Company 
 
-* 📚 Areas of Interest: Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL.
- * 💞️ I’m looking to collaborate on a project based on Data Analytics.
+* 📚 Areas of Interest: Python, Data Cleaning/Cleansing, Data Visualization, Data Analysis, SQL, Automation , Cloud , Azure.
+ * 💞️ I’m looking to collaborate on a project based on Data Analytics, Automation ,  Analaytics Etc.
 * Outside the world of tech too, I love gardening , baking   .
 
 

@@ -35,12 +35,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HazelAbraham&label=Profile%20Views&color=0e75b4&style=flat" alt="Profile Views" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HazelAbraham&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HazelAbraham&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -56,22 +56,6 @@
   <img src ="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
   <img src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 HazelAbraham/HazelAbraham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

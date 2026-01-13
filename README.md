@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hazel Abraham</h1>
 
-<h3 align="center">Data & Analytics  Engineer Professional | Building Scalable Data Solutions</h3>
+<h3 align="center">Data & Analytics Engineer | Building Agentic AI & RAG Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hazel-abraham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -11,33 +11,45 @@
 
 ## 🎯 About Me
 
-I'm a **Data Engineer & Analytics professional** with **2+ years of experience** building robust data pipelines, automations, and turning complex data into actionable insights. I hold a **B.Tech in Mechanical Engineering** (2021) and a **PGP in Data Science and Engineering** from Great Learning.
+I'm a **Data & Analytics Engineer** with **2+ years of experience** building data pipelines and now expanding into **Agentic AI, RAG systems, and Generative AI applications**. I hold a **B.Tech in Mechanical Engineering** (2021) and a **PGP in Data Science and Engineering** from Great Learning.
 
 **What I do:**
-- 🔧 Design and build **end-to-end data pipelines** on Databricks
-- ⚡ Optimize **PySpark & Spark SQL** for large-scale data processing
-- 🖥️ Build **Databricks Apps** and **Streamlit** applications for data tools
-- 📊 Create **interactive dashboards** with Power BI
-- 🤖 Automate workflows using **Python & Selenium**
+- 🤖 Building **Agentic AI systems** and **RAG pipelines** using ChromaDB, FAISS, and Databricks LLM endpoints
+- 🧠 Developing **LLM-powered applications** with Claude, GPT, and foundation models
+- 🔧 Designing **end-to-end data pipelines** on Databricks for AI/ML workloads
+- ⚡ Optimizing **PySpark & Spark SQL** for large-scale data processing
+- 📊 Creating **AI-powered analytics tools** and interactive dashboards
 
-**What drives me:** The challenge of building data systems that teams can depend on - from raw ingestion to polished dashboards. There's something satisfying about transforming chaotic data into clean pipelines and clear insights.
+**What drives me:** Bridging the gap between robust data engineering and cutting-edge AI - building systems where clean pipelines meet intelligent agents to solve real-world problems.
 
 ---
 
 ## 🚀 Currently Learning
 
-Deepening my expertise in building production-grade data systems:
+Expanding into AI/ML while deepening data engineering expertise:
 
 | Area | Focus |
 |------|-------|
-| **Data Pipelines** | Delta Live Tables, Structured Streaming, Batch & Real-time Ingestion |
-| **Databricks Platform** | Performance Tuning, Unity Catalog, Workflows Orchestration, Databricks Apps |
-| **Delta Lake** | Z-ordering, Compaction, CDC, Liquid Clustering, VACUUM |
-| **Spark Optimization** | Partitioning, Caching, Broadcast Joins, Adaptive Query Execution |
+| **Agentic AI & RAG** | LangChain, LlamaIndex, ChromaDB, FAISS, Prompt Engineering, Tool-calling Agents |
+| **Generative AI** | Databricks LLM Endpoints, LLM Fine-tuning, Prompt Optimization, AI Application Development |
+| **Vector Storage** | ChromaDB, FAISS, Embedding Strategies, Similarity Search |
+| **Data Engineering** | Delta Live Tables, Structured Streaming, Unity Catalog, Databricks Workflows |
+| **MLOps** | Model Deployment, Monitoring, CI/CD for AI Systems |
 
 ---
 
 ## 💻 Tech Stack
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white)
+
+### Vector Databases & RAG
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
 ### Data Engineering
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -63,17 +75,30 @@ Deepening my expertise in building production-grade data systems:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-### Apps & Automation
+### Apps & Frameworks
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Databricks Apps](https://img.shields.io/badge/Databricks%20Apps-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🛠 Core Skills
-
 ```
+├── Agentic AI & RAG
+│   ├── LangChain & LlamaIndex
+│   ├── Vector Databases (ChromaDB, FAISS)
+│   ├── Databricks LLM Endpoints
+│   ├── Prompt Engineering & Optimization
+│   ├── Tool-calling Agents
+│   └── Document Q&A Systems
+│
+├── Generative AI
+│   ├── LLM Integration (Claude, GPT, Foundation Models)
+│   ├── Embedding Models & Retrieval
+│   ├── AI Application Development
+│   └── Context-aware Systems
+│
 ├── Data Engineering
 │   ├── PySpark & Spark SQL
 │   ├── ETL/ELT Pipeline Design
@@ -87,29 +112,23 @@ Deepening my expertise in building production-grade data systems:
 │   ├── Performance Optimization
 │   └── Structured Streaming
 │
-├── Apps & Automation
-│   ├── Databricks Apps
-│   ├── Streamlit Applications
-│   ├── Selenium Web Automation
-│   └── Python Scripting
-│
-└── Analytics & Visualization
-    ├── Power BI Dashboards
-    ├── SQL Modeling & Optimization
-    ├── Python Data Analysis (Pandas, NumPy)
-    └── Data Storytelling & Reporting
+└── Analytics & Apps
+    ├── AI-powered Dashboards
+    ├── Streamlit & FastAPI Applications
+    ├── Power BI & Data Visualization
+    └── Python Automation
 ```
 
 ---
 
 ## 📚 Areas of Expertise
 
-✅ **Data Pipeline Design** - Building reliable ETL/ELT workflows on Databricks  
-✅ **Databricks Apps & Streamlit** - Building internal data tools and applications  
-✅ **SQL Modeling & Optimization** - Complex queries, performance tuning, data modeling  
-✅ **Data Visualization & BI** - Power BI dashboards, Python visualization libraries  
-✅ **Automation** - Selenium web automation, Python scripting to reduce manual work  
-✅ **Cloud** - Azure (Event Hub, Blob Storage), Databricks, Snowflake  
+✅ **Agentic AI & RAG Systems** - Building intelligent agents with ChromaDB, FAISS, and LLM endpoints  
+✅ **Generative AI Applications** - Databricks LLM endpoints, prompt engineering, context management  
+✅ **Data Pipeline Design** - Building reliable ETL/ELT workflows for AI/ML workloads  
+✅ **Vector Databases** - ChromaDB, FAISS, embedding storage, similarity search  
+✅ **AI-powered Analytics** - Streamlit apps, chatbots, document Q&A systems  
+✅ **Cloud & MLOps** - Azure, Databricks, model deployment, monitoring  
 
 ---
 
@@ -117,23 +136,25 @@ Deepening my expertise in building production-grade data systems:
 
 - **PGP in Data Science and Engineering** - Great Learning
 - **B.Tech in Mechanical Engineering** - 2021
+- 🎯 *Currently Upskilling:* **Agentic AI, RAG, and Generative AI**
 - 📚 *Preparing for:* **Databricks Data Engineer Associate Certification**
 
 ---
 
 ## 🤝 Open to Collaborate On
 
-- 🔧 **Data Pipeline Projects** - Building scalable ETL/ELT solutions
-- ⚡ **Spark & Delta Lake** - Performance tuning and lakehouse patterns
-- 🖥️ **Databricks Apps** - Building data tools and applications
-- 📊 **Analytics & Dashboards** - BI solutions and data visualization
-- 🚀 **Open Source** - Contributing to data engineering projects
+- 🤖 **Agentic AI Projects** - Building autonomous agents and RAG systems with ChromaDB/FAISS
+- 🧠 **LLM Applications** - Document Q&A, chatbots using Databricks LLM endpoints
+- 🔍 **Vector Search & Retrieval** - Embedding strategies and optimization
+- 🔧 **AI Data Pipelines** - ETL for ML/AI workloads on Databricks
+- 📊 **AI-powered Analytics** - Combining BI with generative AI
+- 🚀 **Open Source** - Contributing to AI/ML and data engineering projects
 
 ---
 
 ## 🌱 Beyond Tech
 
-When I'm not building pipelines, you can find me:
+When I'm not building AI systems, you can find me:
 - 🌿 **Gardening** - Growing vegetables and experimenting with plant care
 - 🧁 **Baking** - Creating desserts and exploring new recipes
 - 💎 **Diamond Painting** - Relaxing with some sparkle therapy
@@ -153,5 +174,5 @@ When I'm not building pipelines, you can find me:
 ---
 
 <p align="center">
-  <b>"From raw data to reliable pipelines to clear insights."</b> 🔧📊
+  <b>"Building intelligent systems where data meets AI."</b> 🤖🔧📊
 </p>

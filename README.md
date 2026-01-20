@@ -9,22 +9,22 @@
 
 ---
 
-## 🎯 About Me
+##About Me
 
 I'm a **Data & Analytics Engineer** with **2+ years of experience** building data pipelines and now expanding into **Agentic AI, RAG systems, and Generative AI applications**. I hold a **B.Tech in Mechanical Engineering** (2021) and a **PGP in Data Science and Engineering** from Great Learning.
 
 **What I do:**
-- 🤖 Building **Agentic AI systems** and **RAG pipelines** using ChromaDB, FAISS, and Databricks LLM endpoints
-- 🧠 Developing **LLM-powered applications** with Claude, GPT, and foundation models
-- 🔧 Designing **end-to-end data pipelines** on Databricks for AI/ML workloads
-- ⚡ Optimizing **PySpark & Spark SQL** for large-scale data processing
-- 📊 Creating **AI-powered analytics tools** and interactive dashboards
+-  Building **Agentic AI systems** and **RAG pipelines** using ChromaDB, FAISS, and Databricks LLM endpoints
+- Developing **LLM-powered applications** with Claude, GPT, and foundation models
+- Designing **end-to-end data pipelines** on Databricks for AI/ML workloads
+-  Optimizing **PySpark & Spark SQL** for large-scale data processing
+-  Creating **AI-powered analytics tools** and interactive dashboards
 
 **What drives me:** Bridging the gap between robust data engineering and cutting-edge AI - building systems where clean pipelines meet intelligent agents to solve real-world problems.
 
 ---
 
-## 🚀 Currently Learning
+##  Currently Learning
 
 Expanding into AI/ML while deepening data engineering expertise:
 
@@ -38,7 +38,7 @@ Expanding into AI/ML while deepening data engineering expertise:
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### AI & Machine Learning
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -121,14 +121,14 @@ Expanding into AI/ML while deepening data engineering expertise:
 
 ---
 
-## 📚 Areas of Expertise
+##  Areas of Expertise
 
-✅ **Agentic AI & RAG Systems** - Building intelligent agents with ChromaDB, FAISS, and LLM endpoints  
-✅ **Generative AI Applications** - Databricks LLM endpoints, prompt engineering, context management  
-✅ **Data Pipeline Design** - Building reliable ETL/ELT workflows for AI/ML workloads  
-✅ **Vector Databases** - ChromaDB, FAISS, embedding storage, similarity search  
-✅ **AI-powered Analytics** - Streamlit apps, chatbots, document Q&A systems  
-✅ **Cloud & MLOps** - Azure, Databricks, model deployment, monitoring  
+ **Agentic AI & RAG Systems** - Building intelligent agents with ChromaDB, FAISS, and LLM endpoints  
+ **Generative AI Applications** - Databricks LLM endpoints, prompt engineering, context management  
+**Data Pipeline Design** - Building reliable ETL/ELT workflows for AI/ML workloads  
+**Vector Databases** - ChromaDB, FAISS, embedding storage, similarity search  
+**AI-powered Analytics** - Streamlit apps, chatbots, document Q&A systems  
+**Cloud & MLOps** - Azure, Databricks, model deployment, monitoring  
 
 ---
 
@@ -141,23 +141,22 @@ Expanding into AI/ML while deepening data engineering expertise:
 
 ---
 
-## 🤝 Open to Collaborate On
+##  Open to Collaborate On
 
-- 🤖 **Agentic AI Projects** - Building autonomous agents and RAG systems with ChromaDB/FAISS
-- 🧠 **LLM Applications** - Document Q&A, chatbots using Databricks LLM endpoints
-- 🔍 **Vector Search & Retrieval** - Embedding strategies and optimization
-- 🔧 **AI Data Pipelines** - ETL for ML/AI workloads on Databricks
-- 📊 **AI-powered Analytics** - Combining BI with generative AI
-- 🚀 **Open Source** - Contributing to AI/ML and data engineering projects
+- **Agentic AI Projects** - Building autonomous agents and RAG systems with ChromaDB/FAISS or databricks Vectors 
+-  **Vector Search & Retrieval** - Embedding strategies and optimization
+- **AI Data Pipelines** - ETL for ML/AI workloads on Databricks
+-  **AI-powered Analytics** - Combining BI with generative AI
+-  **Open Source** - Contributing to AI/ML engineering projects
 
 ---
 
 ## 🌱 Beyond Tech
 
 When I'm not building AI systems, you can find me:
-- 🌿 **Gardening** - Growing vegetables and experimenting with plant care
-- 🧁 **Baking** - Creating desserts and exploring new recipes
-- 💎 **Diamond Painting** - Relaxing with some sparkle therapy
+-  **Gardening** - Growing vegetables and experimenting with plant care
+- **Baking** - Creating desserts and exploring new recipes
+
 
 ---
 

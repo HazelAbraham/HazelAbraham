@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hazel Abraham</h1>
 
-<h3 align="center">Data & Analytics Engineer | Building Agentic AI & RAG Systems</h3>
+<h3 align="center">Data & AI Engineer | Building Agentic AI & RAG Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hazel-abraham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

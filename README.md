@@ -1,177 +1,119 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Hazel Abraham</h1>
-
-<h3 align="center">Data & AI Engineer | Building Agentic AI & RAG Systems</h3>
+<!-- ≋ header wave ≋ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0891b2,100:22d3ee&height=200&section=header&text=Hazel%20Abraham&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=data%20in%20%E2%86%92%20agents%20%E2%86%92%20answers%20out&descAlignY=58&descSize=16" width="100%" alt="header"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hazel-abraham/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/HazelAbraham/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=900&color=0891B2&center=true&vCenter=true&width=560&lines=associate+data+scientist+%C2%B7+genai;building+multi-agent+%2B+rag+systems;from+raw+telemetry+to+shipped+ai+apps;3%2B+years+in+industrial+iot+data" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hazel-abraham/"><img src="https://img.shields.io/badge/LinkedIn-hazel--abraham-0891b2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0f766e" alt="LinkedIn"/></a>
+  <a href="mailto:hazel21.abraham@gmail.com"><img src="https://img.shields.io/badge/Email-hazel21.abraham-0891b2?style=flat-square&logo=gmail&logoColor=white&labelColor=0f766e" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India-0891b2?style=flat-square&labelColor=0f766e" alt="Location"/>
 </p>
 
 ---
 
-##About Me
+<h3 align="center">≋ &nbsp; hi, i'm hazel &nbsp; ≋</h3>
 
-I'm a **Data & Analytics Engineer** with **2+ years of experience** building data pipelines and now expanding into **Agentic AI, RAG systems, and Generative AI applications**. I hold a **B.Tech in Mechanical Engineering** (2021) and a **PGP in Data Science and Engineering** from Great Learning.
+I'm an Associate Data Scientist with **3+ years** of turning messy industrial data into AI that people actually use.
 
-**What I do:**
--  Building **Agentic AI systems** and **RAG pipelines** using ChromaDB, FAISS, and Databricks LLM endpoints
-- Developing **LLM-powered applications** with Claude, GPT, and foundation models
-- Designing **end-to-end data pipelines** on Databricks for AI/ML workloads
--  Optimizing **PySpark & Spark SQL** for large-scale data processing
--  Creating **AI-powered analytics tools** and interactive dashboards
+Most of my days sit somewhere between two worlds. On one side, sensor telemetry streaming in from the field. On the other, LLM agents that read that data, check the docs, and explain what's going wrong in plain language. I like owning the whole path in between.
 
-**What drives me:** Bridging the gap between robust data engineering and cutting-edge AI - building systems where clean pipelines meet intelligent agents to solve real-world problems.
-
----
-
-##  Currently Learning
-
-Expanding into AI/ML while deepening data engineering expertise:
-
-| Area | Focus |
-|------|-------|
-| **Agentic AI & RAG** | LangChain, LlamaIndex, ChromaDB, FAISS, Prompt Engineering, Tool-calling Agents |
-| **Generative AI** | Databricks LLM Endpoints, LLM Fine-tuning, Prompt Optimization, AI Application Development |
-| **Vector Storage** | ChromaDB, FAISS, Embedding Strategies, Similarity Search |
-| **Data Engineering** | Delta Live Tables, Structured Streaming, Unity Catalog, Databricks Workflows |
-| **MLOps** | Model Deployment, Monitoring, CI/CD for AI Systems |
-
----
-
-##  Tech Stack
-
-### AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white)
-
-### Vector Databases & RAG
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-### Data Engineering
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-### Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Event Hub](https://img.shields.io/badge/Event%20Hub-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Blob](https://img.shields.io/badge/Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-### Apps & Frameworks
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Databricks Apps](https://img.shields.io/badge/Databricks%20Apps-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
----
-
-## 🛠 Core Skills
-```
-├── Agentic AI & RAG
-│   ├── LangChain & LlamaIndex
-│   ├── Vector Databases (ChromaDB, FAISS)
-│   ├── Databricks LLM Endpoints
-│   ├── Prompt Engineering & Optimization
-│   ├── Tool-calling Agents
-│   └── Document Q&A Systems
-│
-├── Generative AI
-│   ├── LLM Integration (Claude, GPT, Foundation Models)
-│   ├── Embedding Models & Retrieval
-│   ├── AI Application Development
-│   └── Context-aware Systems
-│
-├── Data Engineering
-│   ├── PySpark & Spark SQL
-│   ├── ETL/ELT Pipeline Design
-│   ├── Delta Lake & Data Lakehouse
-│   ├── Data Ingestion (Event Hub, Blob Storage)
-│   └── Databricks Workflows & Jobs
-│
-├── Data Processing
-│   ├── Large-scale Transformations
-│   ├── Data Quality & Validation
-│   ├── Performance Optimization
-│   └── Structured Streaming
-│
-└── Analytics & Apps
-    ├── AI-powered Dashboards
-    ├── Streamlit & FastAPI Applications
-    ├── Power BI & Data Visualization
-    └── Python Automation
+```text
+  raw telemetry ──▶ pipelines ──▶ agents + rag ──▶ app people use
+     (azure)       (databricks)    (langgraph)     (streamlit)
 ```
 
 ---
 
-##  Areas of Expertise
+<h3 align="center">≋ &nbsp; what i do &nbsp; ≋</h3>
 
- **Agentic AI & RAG Systems** - Building intelligent agents with ChromaDB, FAISS, and LLM endpoints  
- **Generative AI Applications** - Databricks LLM endpoints, prompt engineering, context management  
-**Data Pipeline Design** - Building reliable ETL/ELT workflows for AI/ML workloads  
-**Vector Databases** - ChromaDB, FAISS, embedding storage, similarity search  
-**AI-powered Analytics** - Streamlit apps, chatbots, document Q&A systems  
-**Cloud & MLOps** - Azure, Databricks, model deployment, monitoring  
-
----
-
-## 🎓 Education & Certifications
-
-- **PGP in Data Science and Engineering** - Great Learning
-- **B.Tech in Mechanical Engineering** - 2021
-- 🎯 *Currently Upskilling:* **Agentic AI, RAG, and Generative AI**
-- 📚 *Preparing for:* **Databricks Data Engineer Associate Certification**
+- 🤖 &nbsp;**Agentic AI** — design multi-agent workflows in LangGraph, where each agent has a clear job and tools to do it
+- 🔍 &nbsp;**RAG** — ground LLM answers in technical documentation so they're specific, not generic
+- 🛠️ &nbsp;**Tool-calling agents** — build the tools agents call to reason over telemetry, configuration and calibration data
+- 🌊 &nbsp;**Data pipelines** — ingest and migrate data across Azure, Snowflake and Databricks, batch and streaming
+- 📄 &nbsp;**LLM apps** — Streamlit apps that mix LLM extraction with rule-based logic to automate slow manual work
+- 📊 &nbsp;**BI** — Power BI dashboards with DAX that teams use to track what's happening in the field
 
 ---
 
-##  Open to Collaborate On
-
-- **Agentic AI Projects** - Building autonomous agents and RAG systems with ChromaDB/FAISS or databricks Vectors 
--  **Vector Search & Retrieval** - Embedding strategies and optimization
-- **AI Data Pipelines** - ETL for ML/AI workloads on Databricks
--  **AI-powered Analytics** - Combining BI with generative AI
--  **Open Source** - Contributing to AI/ML engineering projects
-
----
-
-## 🌱 Beyond Tech
-
-When I'm not building AI systems, you can find me:
--  **Gardening** - Growing vegetables and experimenting with plant care
-- **Baking** - Creating desserts and exploring new recipes
-
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">≋ &nbsp; my toolkit &nbsp; ≋</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HazelAbraham&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,azure,git,github,vscode&theme=dark" alt="core skills"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazelAbraham&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/LangGraph-0f766e?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0f766e?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-0f766e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Multi--Agent-0f766e?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Databricks-0891b2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-0891b2?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Delta%20Lake-0891b2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Snowflake-0891b2?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event%20Hub-0891b2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cosmos%20DB-0891b2?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-22d3ee?style=for-the-badge&logo=streamlit&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Databricks%20Apps-22d3ee?style=for-the-badge&logo=databricks&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI%20%2B%20DAX-22d3ee?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-22d3ee?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
 </p>
 
 ---
 
+<h3 align="center">≋ &nbsp; currently leveling up &nbsp; ≋</h3>
+
+| | Area | What I'm learning |
+|:-:|---|---|
+| 🚀 | **Shipping** | FastAPI, Docker, CI/CD with GitHub Actions |
+| 🧪 | **Agent quality** | evals for RAG and agents, tracing, guardrails |
+| 🧩 | **Agent patterns** | structured outputs, MCP, retries and fallbacks |
+| 🖥️ | **Frontend** | React / Next.js with streaming responses |
+| 🧠 | **Foundations** | stats, classical ML, neural nets, transformers |
+| 🎯 | **Certification** | Databricks Generative AI Engineer Associate |
+
+---
+
+<h3 align="center">≋ &nbsp; how i like to work &nbsp; ≋</h3>
+
 <p align="center">
-  <b>"Building intelligent systems where data meets AI."</b> 🤖🔧📊
+  <i>start with the data — a good agent can't fix a bad pipeline.</i><br/>
+  <i>build the whole thing, then make each part better.</i><br/>
+  <i>if a field engineer can't use it, it isn't done.</i>
+</p>
+
+---
+
+<h3 align="center">≋ &nbsp; my contributions &nbsp; ≋</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0891b2/HazelAbraham" width="95%" alt="contribution calendar"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HazelAbraham&hide_border=true&background=00000000&ring=0891B2&fire=22D3EE&currStreakLabel=0891B2&sideLabels=0F766E&currStreakNum=0F766E&sideNums=0F766E&dates=6B7280&stroke=0891B2" alt="contribution streak"/>
+</p>
+
+---
+
+<p align="center">
+  open to &nbsp;·&nbsp; <b>genai engineer</b> &nbsp;·&nbsp; <b>applied ai engineer</b> &nbsp;·&nbsp; <b>agentic ai engineer</b> roles
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HazelAbraham&color=0891b2&style=flat-square&label=profile+views" alt="views"/>
+</p>
+
+<!-- ≋ footer wave ≋ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0891b2,100:0f766e&height=110&section=footer" width="100%" alt="footer"/>
 </p>
